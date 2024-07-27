@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: abdelkader97/k8s-node-service:latest
+          tags: abdelkader97/k8s-node-service:1.2.0
